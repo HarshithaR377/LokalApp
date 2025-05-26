@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             LokalEmployeeAppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Harshitha",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
